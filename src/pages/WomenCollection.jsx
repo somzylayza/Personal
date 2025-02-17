@@ -1,5 +1,5 @@
 import React from 'react';
-import './womencollection.css'; // Ensure this CSS file is created for styling
+import './womencollection.css'
 
 const WomenCollection = () => {
   return (
