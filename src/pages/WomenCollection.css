@@ -1,0 +1,17 @@
+.women-collection {
+    text-align: center;
+    padding: 50px;
+    background-color: #f8f8f8;
+    min-height: 100vh;
+  }
+  
+  .women-collection h1 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .women-collection p {
+    font-size: 1.2rem;
+    color: #666;
+  }
