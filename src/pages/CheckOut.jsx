@@ -1,5 +1,5 @@
 import React from 'react';
-import './Checkout.css';
+import './checkout.css';
 
 const Checkout = () => {
   return (
