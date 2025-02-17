@@ -1,5 +1,5 @@
 import React from 'react';
-import './womencollection.css'
+import './womencollection.css';
 
 const WomenCollection = () => {
   return (
