@@ -1,5 +1,5 @@
 import React from 'react';
-import './cartpage.css';
+import '../styles/cartpage.css';
 
 const CartPage = () => {
   return (
