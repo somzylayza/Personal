@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./home.css";
+import "../pages/home.css";
 
 const products = [
   { id: 1, name: "Men's Blue Loafers", price: 129.99, image: "./Image1.jpg" },
